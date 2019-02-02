@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="justice" size="200.000000 296.442688" />
+    <ImageTarget name="harry" size="200.000000 296.296295" />
+    <ImageTarget name="avengers" size="100.000000 152.477768" />
+    <ImageTarget name="qr" size="0.200000 0.200000" />
+    <ImageTarget name="test" size="0.300000 0.147000" />
+  </Tracking>
+</QCARConfig>
