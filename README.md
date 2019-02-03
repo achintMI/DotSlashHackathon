@@ -1,6 +1,6 @@
 # DotSlashHackathon
 <hr>
-<b>A Simple Android App to render movie trailer on its poster in Augmented Reality, so that user don't have to go and search for trailers to watch them. Just scan the poster and enjoy the trailer.</b><br/>
+<b>A Simple Android App to render movie trailer on its poster in Augmented Reality, so that user don't have to go and search for trailers to watch them. Just scan the poster and enjoy the trailer.</b>
 ### Technical Approach
 <hr>
 open the app to scan the poster of any movie, after scanning the system will process the image to extract the name of the movie and make a request for fetching the trailer URL which is stored on the server. 
