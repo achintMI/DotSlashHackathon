@@ -18,4 +18,5 @@ Open the APP and then scan the movie Posters present in the Testing Folder.
 We have limited set of posters already stored in the system and using them only to represent the basic idea of what we are trying to develop.<br>
 <hr>
 <b>Future Aspects</b><br/>
-Further, this concept can be implemented to the Augmented reality and computer graphics field, so that video clips can be used as a texture on any object.<br>
+Further, this concept can be implemented to the Augmented reality.<br>
+Can be used in bill boards to extract the information.<br>
