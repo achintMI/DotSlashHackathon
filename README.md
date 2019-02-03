@@ -4,7 +4,6 @@
 <b>Technical Approach</b><br>
 open the app to scan the poster of any movie, after scanning the system will process the image to extract the name of the movie and make a request for fetching the trailer URL which is stored on the server. <br>
 <br>Tech Stack</b><br/>
-<hr>
 Unity, Vuforia, C#, Android<br>
 <hr>
 <b>How to Run</b><br/>
